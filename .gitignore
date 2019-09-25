@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Editor junk
+.vscode/
+
+# App-specific
+database.sqlite
